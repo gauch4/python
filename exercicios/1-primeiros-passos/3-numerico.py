@@ -33,3 +33,5 @@ print(nome*3)
 print(altura)
 
 print(data_nascimento)
+
+print(f'Nayra estudou {3 + 1} horas.')
