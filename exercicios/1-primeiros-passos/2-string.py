@@ -1,17 +1,16 @@
-resumo = "Nayra é uma mulher de 37 anos que deseja mudar de profissão, por isso está estudando 'python'."
+resumo = "Bruna é uma mulher de 37 anos que deseja mudar de profissão, por isso está estudando 'python'."
 idade = 38
 # Imprima na tela a variável "resumo"
 print(resumo)
-
 
 # Imprima na tela apenas a segunda letra da variável
 print(resumo[1])
 
 # Imprima na tela a idade de Paloma (resposta esperada: "46")
-print(resumo[:6])
+print(resumo[0:6])
 
 # Imprima na tela o trecho final da variável
-print(resumo[31:])
+print(resumo[30:])
 
 # Converta todos as letras para minúsculo e imprima na tela
 print(resumo.upper())
